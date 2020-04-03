@@ -1,3 +1,8 @@
+//Binôme : ABDESLAMI ZAYNA 
+	// HMAIDDOUCH NADA
+//Groupe:  G1
+
+
 <html>
 <body>
 <H2>Choisir une date</H2>
