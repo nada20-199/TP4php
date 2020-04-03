@@ -1,3 +1,6 @@
+//Binôme : ABDESLAMI ZAYNA 
+	       // HMAIDDOUCH NADA
+//Groupe:  G1
 
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
