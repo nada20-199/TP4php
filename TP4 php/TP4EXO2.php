@@ -1,6 +1,6 @@
-Binôme : ABDESLAMI ZAYNA 
-	 HMAIDDOUCH NADA
-Groupe:  G1
+//Binôme : ABDESLAMI ZAYNA 
+	// HMAIDDOUCH NADA
+//Groupe:  G1
 
 <html>
 
